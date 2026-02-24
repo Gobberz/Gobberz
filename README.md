@@ -3,16 +3,13 @@
 ```
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
-║     A R T H U R   S H A Y M A R D A N O V  /  G O B B E R Z ║
+║     A R T H U R   S H A I M A R D A N O V  /  G O B B E R Z ║
 ║       Data Scientist  ·  Python Engineer  ·  Data Nerd       ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gobberz)
-[![GitHub followers](https://img.shields.io/github/followers/Gobberz?style=for-the-badge&color=gold&labelColor=1a1a1a&label=Followers)](https://github.com/Gobberz)
-![Profile views](https://komarev.com/ghpvc/?username=Gobberz&style=for-the-badge&color=gold&label=Profile+Views)
-
 </div>
 
 ---
@@ -147,6 +144,6 @@ class GobberZ:
 
 *"The goal is not to be busy. The goal is to be effective."*
 
-**Arthur Shaymardanov · @Gobberz · 2026**
+**Arthur Shaimardanov · @Gobberz · 2026**
 
 </div>
