@@ -61,8 +61,9 @@ Outside of data and terminals — chess ♟️ and jazz 🎷.
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| 📖 **NLP Ulysses** | NLP analysis of Joyce's *Ulysses* — text mining, topic modeling, linguistic patterns | Python · NLP · NLTK |
-| 🧮 **Operational Calculators** | Calculators for complex operational processes — multi-condition chains, edge-case handling | Python · Flask |
+|  **NLP Ulysses** | NLP analysis of Joyce's *Ulysses* — text mining, topic modeling, linguistic patterns | Python · NLP · NLTK |
+| **Wittgenstein's Family Resemblance Word Map** | Local NLP dashboard for exploring contextual meanings of words — semantic maps, cluster labels, anti-essence metrics | Python · NLP · NumPy · Text Mining · Dashboard |
+|  **Operational Calculators** | Calculators for complex operational processes — multi-condition chains, edge-case handling | Python · Flask |
 
 ---
 
